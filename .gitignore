@@ -4,3 +4,12 @@ obj
 .DS_Store
 appsettings.json
 *.db
+/.idea/
+/Persistence/bin/
+/Persistence/obj/
+/Domain/bin/
+/Domain/obj/
+/Application/bin/
+/Application/obj/
+/API/obj/
+/API/bin/
